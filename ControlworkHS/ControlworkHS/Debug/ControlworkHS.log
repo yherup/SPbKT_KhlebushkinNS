@@ -1,0 +1,3 @@
+﻿  ControlworkHS.cpp
+C:\Users\khleb\Downloads\doomer papka\ControlworkHS\ControlworkHS\ControlworkHS.cpp(28,24): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+  ControlworkHS.vcxproj -> C:\Users\khleb\Downloads\doomer papka\ControlworkHS\Debug\ControlworkHS.exe
